@@ -28,7 +28,9 @@ For details code, please see the below link:
 **https://github.com/yatoyun/PEL4VAD-test**
 
 #if you think this is helpful for you, please cite the paper below:
-************************************************************************************************
+## Citation
+```
+If the resource is useful please cite the following paper:
 
 @article{shin2024anomaly,
   title={Anomaly Detection in Weakly Supervised Videos Using Multistage Graphs and General Deep Learning Based Spatial-Temporal Feature Enhancement},
@@ -37,3 +39,58 @@ For details code, please see the below link:
   year={2024},
   publisher={IEEE}
 }
+
+@article{shin2023korean,
+  title={Korean Sign Language Recognition Using Transformer-Based Deep Neural Network},
+  author={Shin, Jungpil and Musa Miah, Abu Saleh and Hasan, Md Al Mehedi and Hirooka, Koki and Suzuki, Kota and Lee, Hyoun-Sup and Jang, Si-Woong},
+  journal={Applied Sciences},
+  volume={13},
+  number={5},
+  pages={3029},
+  year={2023},
+  publisher={MDPI}
+}
+@article{miah2022bensignnet,
+  title={BenSignNet: Bengali Sign Language Alphabet Recognition Using Concatenated Segmentation and Convolutional Neural Network},
+  author={Miah, Abu Saleh Musa and Shin, Jungpil and Hasan, Md Al Mehedi and Rahim, Md Abdur},
+  journal={Applied Sciences},
+  volume={12},
+  number={8},
+  pages={3933},
+  year={2022},
+  publisher={MDPI}
+}
+@article{miah2023multistage,
+  title={Multistage Spatial Attention-Based Neural Network for Hand Gesture Recognition},
+  author={Miah, Abu Saleh Musa and Hasan, Md Al Mehedi and Shin, Jungpil and Okuyama, Yuichi and Tomioka, Yoichi},
+  journal={Computers},
+  volume={12},
+  number={1},
+  pages={13},
+  year={2023},
+  publisher={MDPI}
+}
+
+@article{miahrotation,
+  title={Rotation, Translation and Scale Invariant Sign Word Recognition Using Deep Learning},
+  author={Miah, Abu Saleh Musa and Shin, Jungpil and Hasan, Md Al Mehedi and Rahim, Md Abdur and Okuyama, Yuichi},
+journal={ Computer Systems Science and Engineering },
+  volume={44},
+  number={3},
+  pages={2521–2536},
+  year={2023},
+  publisher={TechSchince}
+
+}
+
+@inproceedings{chenBMVC19dynamic,
+  author    = {Chen, Yuxiao and Zhao, Long and Peng, Xi and Yuan, Jianbo and Metaxas, Dimitris N.},
+  title     = {Construct Dynamic Graphs for Hand Gesture Recognition via Spatial-Temporal Attention},
+  booktitle = {BMVC},
+  year      = {2019}
+}
+
+
+## Acknowledgement
+************************************************************************************************
+
