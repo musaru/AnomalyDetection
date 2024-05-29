@@ -24,5 +24,16 @@ UCF-Crime datasets validate the superiority of our method over state-of-the-art 
 margin. We believe that our model holds significant promise for real-world applications, demonstrating
 superior performance and efficacy in anomaly detection tasks.
 INDEX TERMS Temporal contextual aggregation (TCA),
-For details code please see the below link:
+For details code, please see the below link:
 **https://github.com/yatoyun/PEL4VAD-test**
+
+#if you think this is helpful for you, please cite the paper below:
+************************************************************************************************
+
+@article{shin2024anomaly,
+  title={Anomaly Detection in Weakly Supervised Videos Using Multistage Graphs and General Deep Learning Based Spatial-Temporal Feature Enhancement},
+  author={Shin, Jungpil and Kaneko, Yuta and Miah, Abu Saleh Musa and Hassan, Najmul and Nishimura, Satoshi},
+  journal={IEEE Access},
+  year={2024},
+  publisher={IEEE}
+}
