@@ -24,7 +24,7 @@ UCF-Crime datasets validate the superiority of our method over state-of-the-art 
 margin. We believe that our model holds significant promise for real-world applications, demonstrating
 superior performance and efficacy in anomaly detection tasks.
 INDEX TERMS Temporal contextual aggregation (TCA),
-For details code, please see the below link:
+For details code, please see the below link:**https://github.com/yatoyun/WSV-GST**
 **https://github.com/yatoyun/PEL4VAD-test**
 
 #if you think this is helpful for you, please cite the paper below:
